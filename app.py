@@ -3,7 +3,7 @@ def add(a, b):
 
 
 def main():
-    print("CI PIPELINE demo sucessful!")
+    print("Welcome to my DevOps CI project!")
 
 
 if __name__ == "__main__":
