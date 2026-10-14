@@ -3,7 +3,7 @@ def add(a, b):
 
 
 def main():
-    print("Welcome to my DevOps CI project!")
+    print("Hello world devopse!")
 
 
 if __name__ == "__main__":
